@@ -1,0 +1,13 @@
+public class string{
+
+public void main(String[]args){
+
+ String str="ram";
+ String str1=new String("Ingole");
+ System.out.println(str==str1);
+
+
+}
+
+
+}
